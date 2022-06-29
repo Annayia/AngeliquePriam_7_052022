@@ -35,7 +35,7 @@ Si ce n'est pas le cas, voici le lien pour le télécharger : https://nodejs.org
 *Clone the repository by typing the command line above in your command terminal*
  
  
-# Backend #
+# BACKEND #
 
 1) Ajoutez un dossier nommé précisément "images" dans le dossier "backend"
 *Add a folder in "backend" named precisely "images"*
@@ -46,6 +46,10 @@ Si ce n'est pas le cas, voici le lien pour le télécharger : https://nodejs.org
 3) Dans un nouveau terminal de commande, tout en gardant le premier ouvert, entrez dans l'ordre les commandes `cd backend`, puis `npm install` et `npm start`
 *In a new terminal, while keeping the other open, enter the command lines above, first `cd backend`, then `npm install` and finally `node server`*
 
+# FRONTEND #
+
+1) Dans un nouveau terminal de commande, tout en gardant le premier ouvert, entrez dans l'ordre les commandes `cd frontend`, puis `npm install`
+*In a new terminal, while keeping the other open, enter the command lines above, first `cd backend`, then `npm install`*
 
 # Lancer le projet #
 
