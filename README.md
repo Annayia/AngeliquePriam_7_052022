@@ -49,7 +49,7 @@ Si ce n'est pas le cas, voici le lien pour le télécharger : https://nodejs.org
 # FRONTEND #
 
 1) Dans un nouveau terminal de commande, tout en gardant le premier ouvert, entrez dans l'ordre les commandes `cd frontend`, puis `npm install`
-*In a new terminal, while keeping the other open, enter the command lines above, first `cd backend`, then `npm install`*
+*In a new terminal, while keeping the other open, enter the command lines above, first `cd frontend`, then `npm install`*
 
 # Lancer le projet #
 
