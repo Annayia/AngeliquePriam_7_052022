@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Lato", sans-serif;
+}
+body { 
+    max-height: 100vh;
+    color: white;
+    background-color: #E2E9EE;
+    }
+
+  
+    .active-btn{
+      background-color: #4e5166;
+      padding: 0.5rem;
+      border-radius: 1.5rem;
+      text-transform: uppercase;
+      font-weight: bold;
+      cursor: pointer;
+      width : 10rem;
+    }
+
