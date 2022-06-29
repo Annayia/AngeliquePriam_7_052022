@@ -9,7 +9,7 @@ L'exercice consiste à créer un réseau social d'entreprise from Scratch sous N
 1) DATABASE
 
 I)D'abord dans mySQL tapez la commande : mysql> CREATE DATABASE groupomania;
-* First in MySQL type the following command :  mysql> CREATE DATABASE groupomania; *
+*First in MySQL type the following command :  mysql> CREATE DATABASE groupomania; *
 
 II) Ensuite dans le terminal : $ mysql -u root -p groupomania < PRIAM_Angelique_bdd_052022
 *Next in terminal:$ mysql -u root -p groupomania < PRIAM_Angelique_bdd_052022.sql *
