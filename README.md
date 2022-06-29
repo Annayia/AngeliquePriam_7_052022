@@ -6,51 +6,44 @@ L'exercice consiste à créer un réseau social d'entreprise from Scratch sous N
 
 # Installation #
 
-1) DATABASE
+# DATABASE #
 
-I) D'abord dans mySQL tapez la commande : mysql> CREATE DATABASE groupomania;
-
+1) D'abord dans mySQL tapez la commande : mysql> CREATE DATABASE groupomania;
 *First in MySQL type the following command :  mysql> CREATE DATABASE groupomania;*
 
 
-II) Ensuite dans le terminal : $ mysql -u root -p groupomania < PRIAM_Angelique_bdd_052022
-
+2) Ensuite dans le terminal : $ mysql -u root -p groupomania < PRIAM_Angelique_bdd_052022
 *Next in terminal:$ mysql -u root -p groupomania < PRIAM_Angelique_bdd_052022.sql *
 
 
-III) Pour utiliser la bdd : mysql> USE groupomania;
+3) Pour utiliser la bdd : mysql> USE groupomania;
 
 
 
-2) INSTALLATION GLOBALE
+# INSTALLATION GLOBALE #
 
-I) Assurez-vous que Node.js est bien installé sur votre ordinateur.
+1) Assurez-vous que Node.js est bien installé sur votre ordinateur.
 Si ce n'est pas le cas, voici le lien pour le télécharger : https://nodejs.org/en/
-
 *Make sure you have Node.js on your computer, if not download it to the link above*
 
-II) Créez un nouveau dossier qui contiendra la totalité du projet sur votre bureau.
+2) Créez un nouveau dossier qui contiendra la totalité du projet sur votre bureau.
 
 *Create a new folder for the whole project on your desktop*
 
-III) Clonez le repository à cet emplacement en copiant la ligne ci-dessous dans votre terminal de commande :
+3) Clonez le repository à cet emplacement en copiant la ligne ci-dessous dans votre terminal de commande :
 ==>> `git clone https://github.com/Annayia/AngeliquePriam_7_052022.git`
-
 *Clone the repository by typing the command line above in your command terminal*
  
  
 # Backend #
 
 1) Ajoutez un dossier nommé précisément "images" dans le dossier "backend"
-2) 
 *Add a folder in "backend" named precisely "images"*
  
 2) Créez dans le dossier "backend", un fichier ".env" en suivant l'exemple nommé ".env.example" et remplissez les valeurs par les votres.
-3) 
 *Create in the "backend" folder, a file ".env", following the example of the ".env.example" file and fill the values by yours*
  
 3) Dans un nouveau terminal de commande, tout en gardant le premier ouvert, entrez dans l'ordre les commandes `cd backend`, puis `npm install` et `npm start`
-4) 
 *In a new terminal, while keeping the other open, enter the command lines above, first `cd backend`, then `npm install` and finally `node server`*
 
 
